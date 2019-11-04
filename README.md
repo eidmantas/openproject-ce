@@ -1,4 +1,4 @@
-ping pong
+ping pong ping
 
 # OpenProject Community Repository
 
