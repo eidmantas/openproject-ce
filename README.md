@@ -1,4 +1,4 @@
-# OpenProject Community Repository
+# OpenProject Community Repository !
 
 This is the OpenProject community archive that existed to build bundled OpenProject core and plugins for packaged installations. All new releases will be available at our main repository at https://github.com/opf/openproject .
 
